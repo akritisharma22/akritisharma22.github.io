@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+## 2025
+* Z. Taylor, **A. Sharma** and K. Upadhyay, "Examining the Threat Landscape of Generative AI: Attack Vectors and Mitigation Strategies for LLMs," <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) </i>, Las Vegas, NV, USA, 2025, pp. 01014-01020, doi: 10.1109/CCWC62904.2025.10903828. <br> Full text available at <a href="https://www.researchgate.net/publication/389608963_Examining_the_Threat_Landscape_of_Generative_AI_Attack_Vectors_and_Mitigation_Strategies_for_LLMs"> ResearchGate</a>.
+
+* S. Ali, B. Robinson, S. Solomon, S. Poudel, **A. Sharma** and K. Upadhyay, "Chain Your Loot: Implementing Blockchain into Gaming Loot Box Markets," <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) </i>, Las Vegas, NV, USA, 2025, pp. 00861-00867, doi: 10.1109/CCWC62904.2025.10903803. <br> Full text available at <a href="https://www.researchgate.net/publication/389608151_Chain_Your_Loot_Implementing_Blockchain_into_Gaming_Loot_Box_Markets"> ResearchGate</a>.
